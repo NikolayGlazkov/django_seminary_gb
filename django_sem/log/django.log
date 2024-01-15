@@ -4,3 +4,365 @@ Watching for file changes with %s
 %s: %s
 "%s" %s %s
 "%s" %s %s
+Watching for file changes with %s
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 17, in index
+    return render(request, "myapp/index.html", {"site_info": site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 15, in index
+    return render(request, 'home_work1/index.html', {'site_info': site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home_work1/index.html
+"%s" %s %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/home_work1/views.py", line 15, in index
+    return render(request, 'home_work1/index.html', {'site_info': site_info})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home_work1/index.html
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
