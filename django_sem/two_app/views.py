@@ -18,3 +18,6 @@ def coin(request):
 def dice(request):
     return HttpResponse(random.randint(1,6))
 
+def gen_random_num(request):
+    result =  random.randint(0,100)
+    return HttpResponse(f"{result}")

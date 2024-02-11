@@ -4,3 +4,199 @@ Watching for file changes with %s
 %s: %s
 "%s" %s %s
 "%s" %s %s
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+Traceback (most recent call last):
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikolay/Documents/django_seminary_gb/django_sem/seminar3/views.py", line 6, in index
+    return render(request)
+           ^^^^^^^^^^^^^^^
+TypeError: render() missing 1 required positional argument: 'template_name'
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s: %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
+%s changed, reloading.
+Watching for file changes with %s
